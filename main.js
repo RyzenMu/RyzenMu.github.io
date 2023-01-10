@@ -15,3 +15,8 @@ else if (firstPara.value == 'blue') {
 else if (firstPara.value == 'green') {
     secondPara.style.color = "green";
 }
+
+
+function color(value){
+    secondPara.style.color = value;
+}
