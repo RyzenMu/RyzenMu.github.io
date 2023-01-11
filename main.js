@@ -1,3 +1,4 @@
+
 console.log('Hello World');
 
 firstPara = document.querySelector('#Color');
@@ -17,6 +18,4 @@ else if (firstPara.value == 'green') {
 }
 
 
-function color(value){
-    secondPara.style.color = value;
-}
+
